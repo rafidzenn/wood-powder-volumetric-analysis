@@ -5,8 +5,7 @@ The primary work in this program will be A. working on real-world point cloud 3D
 
 
 Tasks Completed
-
-Automated a manual industrial measurement process for a live client, cutting error from 9.98% to under 2%, by changing the
+• Automated a manual industrial measurement process for a live client, cutting error from 9.98% to under 2%, by changing the
 model, refactoring the codebase into modules, standardising configuration across the team for reproducibility, and testing every
 method combination systematically instead of assuming
 • Owned the data preparation stage end to end: multi-week annotation of raw 3D scan data into supervised ground truth, cleaning
